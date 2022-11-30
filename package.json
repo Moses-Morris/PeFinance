@@ -1,0 +1,20 @@
+{
+  "name": "PeFinance",
+  "version": "1.0.0",
+  "description": "This is a repository on Blockchain payment System and Service provision.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Moses-Morris/PeFinance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moses-Morris/PeFinance/issues"
+  },
+  "homepage": "https://github.com/Moses-Morris/PeFinance#readme"
+}
